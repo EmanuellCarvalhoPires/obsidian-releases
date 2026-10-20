@@ -64503,5 +64503,12 @@
     "author": "jiuxianzai",
     "description": "Select text to open a formatting toolbar with bold, links, callouts, block conversion, and configurable plain-text copy. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiuxianzai/obsidian-octavo-toolbar"
+  },
+  {
+    "id": "ai-ecosystem",
+    "name": "AI Ecosystem",
+    "author": "Emanuell Pires",
+    "description": "Single local server (REST and MCP) for AI agents such as Claude Code and Antigravity, with a live request inspector, a script runner and one-click setup of companion plugins.",
+    "repo": "EmanuellCarvalhoPires/obsidian-ai-ecosystem"
   }
 ]
